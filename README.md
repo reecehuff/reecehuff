@@ -1,7 +1,10 @@
-I’m Reece, and I am a Mechanical Engineering Ph.D. student in the [Berkeley BioMechanics Laboratory](https://oconnell.berkeley.edu/). I am broadly interested in applying machine learning to medical imaging systems. Please reach out to me at rdhuff at berkeley dot edu if you would like to connect! 
+### Hey, I’m Reece 👋
 
-![alt text](https://github.com/reecehuff/reecehuff.github.io/blob/master/image.jpg?raw=true)
-![Alt text](../path/to/img.jpg?raw=true "Title")
+I am a Mechanical Engineering Ph.D. student in the [Berkeley BioMechanics Laboratory](https://oconnell.berkeley.edu/). I am broadly interested in applying machine learning to medical imaging systems.
+
+Please reach out to me via [email](mailto:rdhuff@berkeley.edu) if you would like to connect!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshaykagrawal?label=Follow&style=social)](https://twitter.com/reecedhuff)
 
 <!---
 reecehuff/reecehuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
