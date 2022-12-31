@@ -4,7 +4,7 @@ I am a Mechanical Engineering Ph.D. student in the [Berkeley BioMechanics Labora
 
 Please reach out to me via [email](mailto:rdhuff@berkeley.edu) if you would like to connect!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/akshaykagrawal?label=Follow&style=social)](https://twitter.com/reecedhuff)
+[![Twitter Follow](https://img.shields.io/twitter/follow/reecedhuff?label=Follow&style=social)](https://twitter.com/reecedhuff)
 
 <!---
 reecehuff/reecehuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
