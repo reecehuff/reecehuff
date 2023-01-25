@@ -3,9 +3,9 @@
 I am a Mechanical Engineering Ph.D. student in the [Berkeley BioMechanics Laboratory](https://oconnell.berkeley.edu/). I am broadly interested in applying machine learning to medical imaging systems.
 
 Please reach out to me via [email](mailto:rdhuff@berkeley.edu) or Twitter if you would like to connect!
-
+<!-- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/reecedhuff?label=Follow&style=social)](https://twitter.com/reecedhuff)
-
+ -->
 <!-- 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=reecehuff&show_icons=true&theme=dracula" height="200" />
