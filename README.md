@@ -1,7 +1,6 @@
 ### Hey, I’m Reece 👋
 
-I am a Mechanical Engineering Ph.D. student in the [Berkeley BioMechanics Laboratory](https://oconnell.berkeley.edu/). I am broadly interested in applying machine learning to medical imaging systems.
-
+I am an EECS Ph.D. student in the [Sensorimotor Neural Engineering Lab](https://neuralengatberkeley.github.io).
 Please reach out to me via [email](mailto:rdhuff@berkeley.edu) or Twitter if you would like to connect!
 <!-- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/reecedhuff?label=Follow&style=social)](https://twitter.com/reecedhuff)
