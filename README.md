@@ -1,7 +1,7 @@
 ### Hey, I’m Reece 👋
 
 I am an EECS Ph.D. student in the [Sensorimotor Neural Engineering Lab](https://neuralengatberkeley.github.io).
-Please reach out to me via [email](mailto:rdhuff@berkeley.edu) or Twitter if you would like to connect!
+Please reach out to me via [email](mailto:rdhuff@berkeley.edu) or [Twitter](https://twitter.com/reecedhuff) if you would like to connect!
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reecehuff&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dracula"/>
 
