@@ -3,7 +3,11 @@
 I am an EECS Ph.D. student in the [Sensorimotor Neural Engineering Lab](https://neuralengatberkeley.github.io).
 Please reach out to me via [email](mailto:rdhuff@berkeley.edu) or Twitter if you would like to connect!
 
-<i class="fab fa-twitter">https://twitter.com/reecedhuff</i> <i class="fab fa-instagram"></i>
+<a href="https://github.com/reecehuff"> <i class='fa fa-github fa-5x'></i> </a>
+<a href="https://scholar.google.com/citations?user=CXg0JJUAAAAJ&hl=en&oi=ao"> <i class="ai ai-google-scholar-square ai-5x"></i> </a>
+<a href="https://twitter.com/ReeceDHuff"> <i class="fa fa-twitter fa-5x"></i> </a>
+<a href="https://www.linkedin.com/in/reece-huff"> <i class="fa fa-linkedin fa-5x"></i> </a>
+<a href="content/pdfs/cv.pdf"> <i class="ai ai-cv-square ai-5x"></i> </a>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reecehuff&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dracula"/>
 
